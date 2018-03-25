@@ -351,3 +351,5 @@ echo 'bbb(dev-testブランチで修正344)';
 echo 'bbb(dev-testブランチで修正345)';
 echo 'bbb(dev-testブランチで修正346)';
 echo 'bbb(dev-testブランチで修正347)';
+
+echo 'sososososo';
